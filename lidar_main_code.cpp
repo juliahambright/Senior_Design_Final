@@ -274,7 +274,7 @@ int find_bridge_start(int nStart, int nEnd, int count) {
 
 
 
-//------------------------------------END OF MY MOTHER FUCKING FUNCTIONS-------------------------------//
+//------------------------------------END OF FUNCTIONS-------------------------------//
 
 
 int main(int argc, const char* argv[]) {
